@@ -1,3 +1,8 @@
+// Level order traversal
+// TC : 0(n) 
+// SC : 0(n) for queue
+// Used for : Shortest path in unweighted tree, Level-wise processing, Finding height (with level tracking)
+
 #include <bits/stdc++.h>
 using namespace std;
 struct Node{
