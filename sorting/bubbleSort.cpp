@@ -4,7 +4,7 @@
 
 // Time Complexities : 
 // best case = 0(n)
-// Average Case = 0(n)
+// Average Case = 0(n^2)
 // Worst Case = 0(n^2)
 
 #include <bits/stdc++.h>
